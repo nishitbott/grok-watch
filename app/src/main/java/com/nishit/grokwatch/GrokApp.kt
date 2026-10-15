@@ -2,8 +2,8 @@ package com.nishit.grokwatch
 
 import androidx.compose.runtime.Composable
 import androidx.lifecycle.viewmodel.compose.viewModel
-import androidx.navigation.compose.composable
 import androidx.wear.compose.navigation.SwipeDismissableNavHost
+import androidx.wear.compose.navigation.composable
 import androidx.wear.compose.navigation.rememberSwipeDismissableNavController
 import com.nishit.grokwatch.ui.HistoryScreen
 import com.nishit.grokwatch.ui.HomeScreen
